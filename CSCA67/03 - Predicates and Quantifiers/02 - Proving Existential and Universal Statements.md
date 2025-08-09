@@ -9,6 +9,7 @@ tags:
   - discrete-math
 folder: UTSC
 course: CSCA67
+module: 03 - Predicates and Quantifiers
 semester: Fall2025
 ---
 ## Proving Existential Statements: $\exists x \in S : P(x)$

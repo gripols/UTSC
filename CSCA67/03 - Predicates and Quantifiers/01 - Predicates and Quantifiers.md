@@ -9,6 +9,7 @@ tags:
   - discrete-math
 folder: UTSC
 course: CSCA67
+module: 03 - Predicates and Quantifiers
 semester: Fall2025
 ---
 

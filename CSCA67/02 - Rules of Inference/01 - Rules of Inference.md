@@ -8,6 +8,7 @@ tags:
   - discrete-math
 folder: UTSC
 course: CSCA67
+module: 02 - Rules of Inference
 semester: Fall2025
 ---
 

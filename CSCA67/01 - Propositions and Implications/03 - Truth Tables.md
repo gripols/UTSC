@@ -9,6 +9,7 @@ tags:
   - discrete-math
 folder: UTSC
 course: CSCA67
+module: 01 - Propositions and Implications
 semester: Fall2025
 ---
 # Truth Table: Basic Connectives
@@ -22,6 +23,19 @@ semester: Fall2025
 
 ---
 
+## Other Ways of Writing $a \rightarrow b$
+
+1. If $a$ then $b$
+2. If $a$, $b$
+3. $b$, if $a$
+4. $a$ only if $b$
+5. $a$ is sufficient for $b$
+6. $b$ is necessary for $a$
+7. $\neg b \rightarrow a$ (Contrapositive)
+8. $a \rightarrow b \equiv \neg P \lor Q$ (Conditional)
+9. $a \rightarrow b \equiv \neg(p\wedge\neg Q)$ (Conditional)
+
+> $b \rightarrow a$ is the converse of $a \rightarrow b$, but they aren't equivalent
 ## See also
 
 - [[02 - Logical Connectives]]

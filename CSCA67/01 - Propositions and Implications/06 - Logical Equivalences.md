@@ -9,6 +9,7 @@ tags:
   - discrete-math
 folder: UTSC
 course: CSCA67
+module: 01 - Propositions and Implications
 semester: Fall2025
 ---
 # Logical Equivalences
